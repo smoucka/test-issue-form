@@ -1,0 +1,12 @@
+name: Something else
+description: Definitely not a technical issue with the Klaviyo extension
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: |
+        Provide all the details that will help us to build the thing you are requesting.
+      value: |
+        - What feature would you like us to add?
+    validations:
+      required: true
